@@ -76,11 +76,11 @@ h1{
     border: none;
     border-bottom: 2px solid gainsboro;
 }
-.donate-sec{
+.donate-button{
     margin-top: 20px;
     display: inline-block;
 }
-.middle-container{
+.donate-section{
     width: 100%;
     text-align: center;
 }

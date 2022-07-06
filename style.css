@@ -1,129 +1,137 @@
-body{
+body {
     font-family: 'Lato', sans-serif;
     margin: 0px;
-    }
-#top-banner-text{
+}
+
+#top-banner-text {
     font-size: 80px;
 }
-h1{
+
+h1 {
     font-size: 60px;
     text-align: center;
 }
 
-.sub-header{
+.sub-header {
     width: 45%;
     text-align: center;
     margin: auto;
     margin-bottom: 4%;
     font-size: 25px;
 }
-.banner-section{
+
+.banner-section {
     text-align: center;
     background-image: url(/donate-today-main/images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(243, 235, 233);
     height: 600px;
-    
 }
-.box-sec{
+
+.box-button {
     background-color: rgb(218, 57, 17);
     font-size: 30px;
     text-decoration: none;
     padding: 10px 20px;
     color: rgb(240, 243, 243);
     border-radius: 10px;
-   
-    
-  
 }
-.banner-container{
-    padding-top: 50px;    
+
+.banner-container {
+    padding-top: 50px;
 }
-.amount-details{
+
+.amount-details {
     font-size: 35px;
     padding: 50px;
     background-color: rgb(250, 246, 246);
 }
-.amount-container{
+
+.amount-container {
     display: flex;
     width: 100%;
     justify-content: space-between;
-    
 }
-.amount-details-differnt{
+
+.amount-details-differnt {
     font-size: 35px;
     padding: 50px;
     background-color: rgb(250, 226, 226);
     color: rgb(241, 86, 86);
     border: 3px solid rgb(243, 118, 118);
-
 }
-.other-amount{
+
+.other-amount {
     text-align: center;
     font-size: 22px;
     margin-bottom: 8px;
 }
 
-
-
-.sub-middle{
+.sub-middle {
     width: 65%;
     margin: auto;
 }
-.other-amount{
+
+.other-amount {
     width: 100%;
     border: none;
     border-bottom: 2px solid gainsboro;
 }
-.donate-button{
+
+.donate-button {
     margin-top: 20px;
     display: inline-block;
 }
-.donate-section{
+
+.donate-header-container {
     width: 100%;
     text-align: center;
 }
-.sub-donate-plan-section{
+
+.sub-donate-plan-section {
     display: flex;
-   width: 80%;
-   margin: auto;
-   justify-content: space-between;
-    
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
 }
-.plan-box-section{
+
+.plan-box-section {
     width: 28%;
     font-size: 20px;
-    padding-top:75px;
+    padding-top: 75px;
     padding-left: 25px;
     padding-right: 25px;
     padding-bottom: 50px;
-    
 }
-h3{
+
+h3 {
     font-size: 30px;
 }
-.food-section{
+
+.food-section {
     background-color: rgba(214, 231, 231, 0.781);
 }
-.shelter-section{
+
+.shelter-section {
     background-color: rgb(255, 235, 238);
 }
-.education-section{
+
+.education-section {
     background-color: rgb(243, 230, 201);
 }
-.input-section{
-    width:700px;
+
+.input-section {
+    width: 700px;
     margin: auto;
     background-color: antiquewhite;
     padding-top: 80px;
     padding-left: 120px;
     padding-right: 120px;
     padding-bottom: 80px;
-    
-
 }
-.subscribe-section{
+
+.subscribe-section {
     color: white;
     background-color: red;
     border: none;
@@ -135,9 +143,9 @@ h3{
     border-bottom-right-radius: 5px;
     font-size: 18px;
     margin-left: -4px;
-
 }
-.email-section{
+
+.email-section {
     background-color: rgb(203, 209, 214);
     padding-top: 14px;
     padding-bottom: 14px;
@@ -147,21 +155,24 @@ h3{
     border: none;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    
 }
-#update-section{
-    margin-top:-20px;
+
+#update-section {
+    margin-top: -20px;
 }
-footer{
+
+footer {
     background-color: black;
 }
-#footer-text{
+
+#footer-text {
     color: rgb(41, 220, 226);
     text-align: center;
     padding-bottom: 40px;
     margin: 0;
 }
-#footer-section{
+
+#footer-section {
     color: rgb(235, 78, 78);
     padding-top: 50px;
     font-size: 40px;
@@ -170,17 +181,19 @@ footer{
     text-align: center;
 }
 
-.image-section{
+.image-section {
     display: flex;
-   justify-content: space-around;
-   text-align: center;
-   font-size: 25px;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 25px;
 }
-.visit-image-section img{
-    width: 450px ;
+
+.visit-image-section img {
+    width: 450px;
     height: 400px;
 }
-.about-text{
+
+.about-text {
     background-color: antiquewhite;
     width: 70%;
     justify-content: center;
@@ -189,5 +202,10 @@ footer{
     box-shadow: 10px 5px gainsboro;
 }
 
-    
+.donate-section {
+    margin-top: 175px;
+}
 
+.section {
+    margin-top: 175px;
+}
